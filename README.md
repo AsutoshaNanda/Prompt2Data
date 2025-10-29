@@ -1,4 +1,6 @@
-# 🤖 Prompt2Data
+<div align="center">
+
+# Prompt2Data
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
@@ -10,6 +12,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Generate realistic and structured synthetic datasets using AI-powered natural language descriptions. Simply describe your desired dataset, and Prompt2Data creates valid JSON or CSV data tailored to your specifications.
+
+</div>
 
 ## Table of Contents
 
